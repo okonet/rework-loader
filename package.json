@@ -1,0 +1,29 @@
+{
+  "name": "rework-loader",
+  "version": "0.0.0",
+  "description": "rework loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -u tdd -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/okonet/rework-loader.git"
+  },
+  "keywords": [
+    "rework",
+    "css",
+    "webpack",
+    "loader"
+  ],
+  "author": "Andrey Okonetchnikov <andrey@okonet.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okonet/rework-loader/issues"
+  },
+  "homepage": "https://github.com/okonet/rework-loader",
+  "dependencies": {
+    "rework": "^0.20.3",
+    "loader-utils": "^0.2.2"
+  }
+}
