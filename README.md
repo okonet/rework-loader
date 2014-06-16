@@ -11,7 +11,7 @@ Rework loader for [webpack](http://webpack.github.io/) which post-processes your
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)
 
 ``` javascript
-var css = require("rework!./file.css");
+var css = require("style!css!rework!./file.css");
 // => returns css post processed with your rework config
 ```
 
