@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/okonet/rework-loader",
   "dependencies": {
-    "rework": "^0.20.3",
-    "loader-utils": "^0.2.2"
+    "loader-utils": "^0.2.3",
+    "rework": "^1.0.1"
   }
 }
